@@ -18,3 +18,5 @@
 </div><br/>
 
 A solução de cada desafio é um passo para construção de um mundo melhor! 
+
+![Snake animation](https://github.com/JMLemos/JMLemos/blob/output/github-grid-snake.svg)
