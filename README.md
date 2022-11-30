@@ -1,8 +1,8 @@
 
 <div align = "center">
     
-    Olá! Eu sou o João Lemos! 🙋‍♂️
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaolemosof/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaolemos1993/) [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jlemosdecastro@gmail.com)
+# Olá! Eu sou o João Lemos! 🙋‍♂️
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaolemos1993/) [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jlemosdecastro@gmail.com)
 
   <a href="https://github.com/JMLemos">
   <img height="150em"   align="center" src="https://github-readme-stats.vercel.app/api?username=JMLemos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -13,22 +13,33 @@
 
 
 ## ▶️ Tecnologias utilizadas
+    
+<div style = "display: inline_block " align="center"><br/>
+    <img align="center" alt="html5" width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"/>
+    <img align="center" alt="css3" width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"/>
+    <img align="center" alt="js" width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"/>
+    <img align="center" alt="angular" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>  
+</div><br/>
+    
+<div style = "display: inline_block " align="center"><br/>
+    <img align="center" alt="c#" width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"/>
+    <img align="center" alt="java" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+    <img align="center" alt="spring" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+</div><br/>
 
 <div style = "display: inline_block " align="center"><br/>
-    <img align = "center "alt = "Java"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
-    <img align = "center "alt = "JavaScript"src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>  
-    <img align = "center "alt = "SQL"src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/> 
-    <img align = "center "alt = "MY SQL"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img align = "center "alt = "Spring"src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-    <img align = "center "alt = "Angular"src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>  
+    <img align="center" alt="sql" width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png"/>
+    <img align="center" alt="mysql" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 </div><br/>
     
 <div align = "center"></br>
 A solução de cada desafio é um passo para construção do conhecimento! 
 </div>
 
-
 ![Snake animation](https://github.com/JMLemos/JMLemos/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
      
   
